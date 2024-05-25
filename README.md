@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img style="border-radius:100px;" height="250" src="https://media.licdn.com/dms/image/D4D03AQGAsNN7pI1hbw/profile-displayphoto-shrink_800_800/0/1686279247105?e=1720656000&v=beta&t=cbijqHUOyy7z6qDKeyzdVfeXVjZGbMmoPJtiqbpBNsI"  />
+  <img style="border-radius:100px;" height="250" src="[https://media.licdn.com/dms/image/D4D03AQGAsNN7pI1hbw/profile-displayphoto-shrink_800_800/0/1686279247105?e=1720656000&v=beta&t=cbijqHUOyy7z6qDKeyzdVfeXVjZGbMmoPJtiqbpBNsI](https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-planeta-terra-girando-4.gif)"  />
 </div>
 
 
