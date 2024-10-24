@@ -1,6 +1,6 @@
 
 
-<img align="center" alt="Foto de capa. Tela de computador com código" src="https://media.licdn.com/dms/image/D4D16AQHRN1IuxcvddQ/profile-displaybackgroundimage-shrink_350_1400/0/1709999066124?e=1720656000&v=beta&t=QxbO0bTVmRq8xQaX-YK0BDUqVZ2p7Oe5z9cvoN_uhlE">
+<img align="center" alt="Foto de capa. Tela de computador com código" src="[https://media.licdn.com/dms/image/D4D16AQHRN1IuxcvddQ/profile-displaybackgroundimage-shrink_350_1400/0/1709999066124?e=1720656000&v=beta&t=QxbO0bTVmRq8xQaX-YK0BDUqVZ2p7Oe5z9cvoN_uhlE](https://midias.inforchannel.com.br/wp-content/uploads/2020/10/9ce3e7bf-code-5067826_1920-768x576.jpg.webp)">
 <br>
 <br>
 
